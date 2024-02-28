@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 4ntj
-- 👀 I’m interested in C++ and Python
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in LuaU and Python
+- 🌱 I’m currently learning 
 
 <!---
 4ntj1/4ntj1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
