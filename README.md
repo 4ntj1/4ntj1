@@ -1,5 +1,5 @@
 - 👋 Hi, I’m 4ntj
-- 👀 I’m interested in LuaU and Python
+- 👀 I’m interested in Luau and Python
 - 🌱 I’m currently learning 
 
 <!---
